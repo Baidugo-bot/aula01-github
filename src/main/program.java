@@ -12,10 +12,11 @@ public class program {
           //IMPORANTE, ANTES DE SALVAR, E DE EXTREMA IMPORTANCIA QUE
           //o seu repositorio commit esteja atualizado com o ultimo do git hub
           
+         System.out.println("Boa tarde");
+         
+         System.out.println("Boa noite");
           
-          
-          
-          
+                
        // KIT DE PRIMEIROS SOCORROS GIT
           //Quero desfazer tudo que eu fiz desde o último commit git clean -df
           
